@@ -8,7 +8,7 @@ Data Science and Machine Learning.
 
 ## I’m currently learning 🌱
 
-Machine Learning Algorithms and Fundamental of Statistice.
+Machine Learning Algorithms and Fundamental of Statistics.
 
 ## My skillsets are 👩‍💻 
 
