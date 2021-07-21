@@ -1,8 +1,24 @@
-# Hi, I’m Ritu 👋
-# I’m interested in 👀
-# I’m currently learning 🌱
-# I’m looking to collaborate on 💞️
-# How to reach me 📫
+## Hi, I’m Ritu 👋
+
+I'm an recent graduate and working at Cognizant as Programmer Analyst Trainee.
+
+## I’m interested in 👀
+
+Data Science and Machine Learning.
+
+## I’m currently learning 🌱
+
+Machine Learning Algorithms and Fundamental of Statistice.
+
+## My skillsets are 👩‍💻 
+
+Python and its libraries: Numpy, Pandas, Matplotlib and Seaborn, along with MySQL, Oracle SQL, Tableau and PL/SQL.
+Also fundamental knowledge of C/C++, HTML and CSS.
+
+## How to reach me 📫
+
+Email: ritusantra525@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritusantra/)
 
 <!---
 ritusantra/ritusantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
