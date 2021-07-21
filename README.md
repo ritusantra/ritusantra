@@ -20,6 +20,8 @@ Fundamental knowledge of C/C++, HTML and CSS.
 ## How to reach me 📫
 
 Email: ritusantra525@gmail.com
+
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritusantra/)
 
 <!---
