@@ -1,6 +1,6 @@
 ## Hi, I’m Ritu 👋
 
-I'm an recent graduate and working at Cognizant as Programmer Analyst Trainee.
+I'm a recent graduate and working at Cognizant as Programmer Analyst Trainee.
 
 ## I’m interested in 👀
 
