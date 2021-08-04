@@ -26,10 +26,13 @@ Machine Learning Algorithms and Fundamental of Statistics.
 
 ## How to reach me 📫
 
-Email: ritusantra525@gmail.com
+[Email](ritusantra525@gmail.com)
 
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritusantra/)
+[LinkedIn](https://www.linkedin.com/in/ritusantra/)
+
+
+[Kaggle](https://www.kaggle.com/ritusantra) 
 
 <!---
 ritusantra/ritusantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
