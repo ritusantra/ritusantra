@@ -26,7 +26,7 @@ Machine Learning Algorithms and Fundamental of Statistics.
 
 ## How to reach me 📫
 
-[Email](ritusantra525@gmail.com)
+Email: ritusantra525@gmail.com
 
 
 [LinkedIn](https://www.linkedin.com/in/ritusantra/)
