@@ -12,17 +12,17 @@ Machine Learning Algorithms and Fundamental of Statistics.
 
 ## My skillsets are 👩‍💻 
 
-✔ Python and its libraries: Numpy, Pandas, Matplotlib and Seaborn
+✅ Python and its libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-✔ MySQL
+✅ Machine Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree
 
-✔ Oracle SQL
+✅ Databases: MySQL, Oracle SQL, PL/SQL
 
-✔ PL/SQL
+✅ BI Tool: Tableau
 
-✔ Tableau
+✅ Statistical concepts: Descriptive Statistics
 
-✔ Basic knowledge of C/C++, HTML and CSS
+✅ Basic knowledge of C/C++, HTML, CSS
 
 ## How to reach me 📫
 
