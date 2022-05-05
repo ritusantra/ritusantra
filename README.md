@@ -1,28 +1,32 @@
 ## Hi, I’m Ritu 👋
 
-I'm a recent graduate and working at Cognizant as Programmer Analyst Trainee.
+I'm a recent graduate and working at Cognizant as Programmer Analyst Trainee
 
 ## I’m interested in 👀
 
-Data Science and Machine Learning.
+Data Analytics, Data Science, Machine Learning
 
 ## I’m currently learning 🌱
 
-Machine Learning Algorithms and Fundamental of Statistics.
+Advanced Excel and Power BI
 
 ## My skillsets are 👩‍💻 
 
-✅ Python and its libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
+✅ Python and Python libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-✅ Machine Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree
+✅ BI Tool: Microsoft Power BI, Tableau
 
-✅ Databases: MySQL, Oracle SQL, PL/SQL
+✅ Databases: Oracle SQL, MySQL, PL/SQL
 
-✅ BI Tool: Tableau
+✅ Advanced Microsoft Excel
 
-✅ Statistical concepts: Descriptive Statistics
+✅ Basic understanding of Machine Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree
+
+✅ Statistical Concepts: Descriptive Statistics
 
 ✅ Basic knowledge of C/C++, HTML, CSS
+
+
 
 ## How to reach me 📫
 
