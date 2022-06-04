@@ -14,7 +14,7 @@ Advanced Excel and Power BI
 
 ✅ Python and Python libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-✅ BI Tool: Microsoft Power BI, Tableau
+✅ BI Tool: Microsoft Power BI
 
 ✅ Databases: Oracle SQL, MySQL, PL/SQL
 
@@ -23,8 +23,6 @@ Advanced Excel and Power BI
 ✅ Basic understanding of Machine Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree
 
 ✅ Statistical Concepts: Descriptive Statistics
-
-✅ Basic knowledge of C/C++, HTML, CSS
 
 
 
