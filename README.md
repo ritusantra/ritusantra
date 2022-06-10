@@ -18,7 +18,7 @@ Advanced SQL
 
 ✅ Databases: Oracle SQL, MySQL, PL/SQL
 
-✅ Advanced Microsoft Excel
+✅ Microsoft Excel
 
 ## How to reach me 📫
 
