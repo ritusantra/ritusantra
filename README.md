@@ -20,12 +20,6 @@ Advanced SQL
 
 ✅ Advanced Microsoft Excel
 
-✅ Basic understanding of Machine Learning Algorithms: Linear Regression, Logistic Regression, Random Forest, Decision Tree
-
-✅ Statistical Concepts: Descriptive Statistics
-
-
-
 ## How to reach me 📫
 
 Email: ritusantra525@gmail.com
