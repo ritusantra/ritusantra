@@ -8,7 +8,7 @@ Data Analytics, Data Science, Machine Learning
 
 ## I’m currently learning 🌱
 
-Advanced Excel and Power BI
+Advanced SQL
 
 ## My skillsets are 👩‍💻 
 
