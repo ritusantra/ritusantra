@@ -1,16 +1,16 @@
-## Hi, I’m Ritu 👋
+### Hi, I’m Ritu 👋
 
 I'm a recent graduate and working at Cognizant as Programmer Analyst Trainee
 
-## I’m interested in 👀
+### I’m interested in 👀
 
 Data Analytics, Data Science, Machine Learning
 
-## I’m currently learning 🌱
+### I’m currently learning 🌱
 
 Advanced SQL
 
-## My skillsets are 👩‍💻 
+### My skillsets are 👩‍💻 
 
 ✅ Python and Python libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
@@ -20,13 +20,11 @@ Advanced SQL
 
 ✅ Microsoft Excel
 
-## How to reach me 📫
+### How to reach me 📫
 
 Email: ritusantra525@gmail.com
 
-
 [LinkedIn](https://www.linkedin.com/in/ritusantra/)
-
 
 [Kaggle](https://www.kaggle.com/ritusantra) 
 
