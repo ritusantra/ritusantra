@@ -1,14 +1,8 @@
-### Hi, I’m Ritu 👋
+👋 Hi, I’m Ritu. I'm a recent graduate and working at Cognizant as Programmer Analyst.
 
-I'm a recent graduate and working at Cognizant as Programmer Analyst.
+👀 I’m interested in Data Analytics, Data Science, Machine Learning
 
-### I’m interested in 👀
-
-Data Analytics, Data Science, Machine Learning
-
-### I’m currently learning 🌱
-
-Advanced SQL
+🌱 I’m currently learning Advanced SQL
 
 ### My skillsets are 👩‍💻 
 
@@ -20,9 +14,7 @@ Advanced SQL
 
 ✅ Microsoft Excel
 
-### How to reach me 📫
-
-Email: ritusantra525@gmail.com
+📫 How to reach me mailto:ritusantra525@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ritusantra/)
 
