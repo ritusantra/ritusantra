@@ -7,13 +7,14 @@ Experienced in performing comprehensive business analysis, adept at eliciting re
 Certified Data Analyst with an ardent interest in Data Analytics and Data Science, looking forward to provide scalable analytical solutions to business problems.
 
 ### 🛠️ Tools & Techniques
-* Databases: MS SQL Server, MySQL, Oracle SQL, PL/SQL
+* Databases: MS SQL Server, MySQL, Oracle SQL
 * Microsoft Excel: Lookup, Pivot Table, Dashboards
 * BI Tool: Microsoft Power BI
 * Python and Python libraries: Numpy, Pandas, Matplotlib, Seaborn
 * Descriptive Statistics, Hypothesis Testing (Z-test, T-test, Chi-square test)
 * Time Series Analysis & Forecasting: ARIMA, SARIMA
 
+### 👩‍💻 Projects
 ### 🔗 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/ritusantra/)
 * [Medium](https://medium.com/@ritusantra)
