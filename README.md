@@ -15,7 +15,7 @@ Certified Data Analyst with an ardent interest in Data Analytics and Data Scienc
 * Time Series Analysis & Forecasting: ARIMA, SARIMA
 
 ### 👩‍💻 Projects
-* [Project Portfolio](https://github.com/ritusantra/project_portfolio)
+* [Project Portfolio](https://github.com/ritusantra/project_portfolio/blob/main/README.md)
 * [Power BI Dashboards](https://www.novypro.com/profile_projects/ritu-santra)
   
 ### 🔗 Connect with Me
