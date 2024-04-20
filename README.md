@@ -19,10 +19,13 @@ Business Analyst with ~3 years of experience in data analysis, business analysis
 ### 👩‍💻 Projects
 * [Project Portfolio](https://ritusantra525.wixsite.com/portfolio)
 * [Power BI Dashboards](https://www.novypro.com/profile_projects/ritu-santra)
+
+### 📝Blog  
+* [Medium](https://medium.com/@ritusantra)
   
 ### 🔗 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/ritusantra/)
-* [Medium](https://medium.com/@ritusantra)
+
 
 <!---
 ritusantra/ritusantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
