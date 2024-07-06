@@ -1,6 +1,8 @@
 ### 🙋‍♀️ About
 
-Business Analyst with ~3 years of experience in data analysis, business analysis, process improvement, and implementing solutions to business problems. Demonstrates expertise in analytical and data visualization tools, enabling effective data analysis, visualization, and statistical analysis.
+Data Analyst/Business Analyst with 3+ years of experience, specializing in exploring, analyzing, and extracting actionable insights from complex data to enhance decision-making. My expertise spans analytical and data visualization tools - SQL, Power BI, Excel, and Python, enabling me to conduct thorough data validation, data modeling, data analysis, ETL process, data visualization, and statistical analysis to drive informed decision-making.
+
+My journey in data analytics began with a fascination for numbers and a curiosity about the insights they generate to drive business and the significant impact they create.
 
 ### 🚀 Key Competencies
 * **Data Analysis & Visualization**: Proficient in cleaning, manipulating, and analyzing complex data to extract valuable insights that inform data-driven decision-making. Skilled in creating compelling visualizations using tools like Power BI and Excel, transforming data into accessible narratives for diverse audiences.
