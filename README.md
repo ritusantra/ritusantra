@@ -5,7 +5,7 @@ With over 4 years of experience in data and analytics across the supply chain, l
 ### 🛠️ Tools & Techniques
 * **Tools:** Advanced SQL (Spark SQL, MS SQL Server, Oracle, MySQL), Python (Numpy, pandas, Matplotlib, Seaborn, Scikit-Learn), PySpark, AWS Services (S3, Athena, SageMaker), Dataiku DSS, Microsoft Power BI, Tableau, Microsoft Excel, Google Sheet, Microsoft PowerPoint
 * **Statistics**: Descriptive Statistics, Hypothesis Testing (Z-test, T-test, Chi-square test)
-* **Machine Learning Algorithms:** Linear Regression, Ridge and Lasso Regression, Logistic Regression, Decision Tree
+* **Machine Learning Algorithms:** Linear Regression, Ridge and Lasso Regression, Logistic Regression, Decision Tree, K-Means
 * **Time Series Analysis & Forecasting**: ARIMA, SARIMA
 
 ### 👩‍💻 Projects
