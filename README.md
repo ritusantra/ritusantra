@@ -1,6 +1,6 @@
 ### 🙋‍♀️ About
 
-With over 4 years of experience in data and analytics across the supply chain, logistics, and healthcare industries, I specialize in exploring, analyzing, and extracting actionable insights from complex data to support decision-making. My expertise spans analytical, machine learning, and data visualization tools, enabling me to perform data validation, modeling, ETL processes, statistical analysis, and apply machine learning techniques to uncover patterns, forecast trends, and drive informed business decisions.
+With over 4.5+ years of experience in data and analytics across the supply chain, logistics, and healthcare industries, I specialize in exploring, analyzing, and extracting actionable insights from complex data to support decision-making. My expertise spans analytical, machine learning, and data visualization tools, enabling me to perform data validation, modeling, ETL processes, statistical analysis, and apply machine learning techniques to uncover patterns, forecast trends, and drive informed business decisions.
 
 ### 🛠️ Tools & Techniques
 * **Tools:** Advanced SQL (Spark SQL, MS SQL Server, Oracle, MySQL), Python (Numpy, pandas, Matplotlib, Seaborn, Scikit-Learn), PySpark, AWS Services (S3, Athena, SageMaker), Dataiku DSS, Microsoft Power BI, Tableau, Microsoft Excel, Google Sheet, Microsoft PowerPoint
